@@ -1,0 +1,2 @@
+普通字符串
+com.hhj.test.PrintStreamTest@40f186b8
